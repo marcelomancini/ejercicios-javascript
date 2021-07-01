@@ -1,0 +1,9 @@
+function suma(num1, num2, num3=0) {
+    var resultado = num1+num2+num3;
+    return resultado
+}
+
+//funcion anonima
+var y = function() {
+    return "Soy una función anónima"
+}
