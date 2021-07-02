@@ -1,0 +1,3 @@
+var frutas = Array.of("manzana", "fresa", "plátano");
+
+var [fruta1, fruta2, fruta3] = frutas;
