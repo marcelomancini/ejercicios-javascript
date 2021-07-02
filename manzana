@@ -1,0 +1,3 @@
+var frutas = new Array("fresa", "piña", "manzana", "uva");
+
+console.log(frutas[2]);
