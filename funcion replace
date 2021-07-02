@@ -1,0 +1,4 @@
+
+var mensaje = "Ayer fui a comprar unos tenis y después fuimos a comer";
+
+mensaje.replace("tenis", "zapatos")
